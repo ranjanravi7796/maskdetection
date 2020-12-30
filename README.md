@@ -2,7 +2,7 @@
 ***
 This project is about detecting whether a person is wearing a mask or not in the camera.
 
-I will be using the face mask dataset from the below git location which contains set of images with and without mask.
+I used a face mask dataset from the below git location which contains set of images with and without mask.
 
 https://github.com/prajnasb/observations/tree/master/experiements/data
 
